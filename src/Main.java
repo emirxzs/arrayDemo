@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         //yeni bir dizi yazma taktiği
-        double[] listem = {1.5, 3.4, 5.1, 7.9,3.5,23};
+        double[] listem = {1.5, 555, 3.4, 5.1, 7.9,3.5,23};
         double total = 0;
         double enBuyuk = listem[0];
 
