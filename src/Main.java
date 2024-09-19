@@ -16,5 +16,6 @@ public class Main {
         }
         System.out.println("Sayıların toplamı:" + total);
         System.out.println("En büyük sayı:" + enBuyuk);
+        System.out.println("Eklenti");
     }
 }
